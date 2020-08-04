@@ -1,0 +1,19 @@
+0 docs with 0	Probability:	1
+0 docs with 1	Probability:	0.375952060292623
+0 docs with 2	Probability:	0.758578142035873
+0 docs with 3	Probability:	0.637296677126848
+
+1 docs with 0	Probability:	0.375952060292623
+1 docs with 1	Probability:	1
+1 docs with 2	Probability:	0.435798170703218
+1 docs with 3	Probability:	0.434238752426506
+
+2 docs with 0	Probability:	0.758578142035873
+2 docs with 1	Probability:	0.435798170703218
+2 docs with 2	Probability:	1
+2 docs with 3	Probability:	0.662442407222657
+
+3 docs with 0	Probability:	0.637296677126848
+3 docs with 1	Probability:	0.434238752426506
+3 docs with 2	Probability:	0.662442407222657
+3 docs with 3	Probability:	1

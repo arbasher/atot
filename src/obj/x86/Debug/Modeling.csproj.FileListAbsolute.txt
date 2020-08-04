@@ -1,0 +1,15 @@
+C:\Users\MeiTantei\Documents\Visual Studio 2010\Projects\Modeling\Modeling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MeiTantei\Documents\Visual Studio 2010\Projects\Modeling\Modeling\bin\Debug\Modeling.exe
+C:\Users\MeiTantei\Documents\Visual Studio 2010\Projects\Modeling\Modeling\bin\Debug\Modeling.pdb
+C:\Users\MeiTantei\Documents\Visual Studio 2010\Projects\Modeling\Modeling\obj\x86\Debug\Modeling.exe
+C:\Users\MeiTantei\Documents\Visual Studio 2010\Projects\Modeling\Modeling\obj\x86\Debug\Modeling.pdb
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Chat Logs Analyzer\Modeling\Modeling\bin\Debug\Modeling.exe
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Chat Logs Analyzer\Modeling\Modeling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Chat Logs Analyzer\Modeling\Modeling\obj\x86\Debug\Modeling.exe
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Chat Logs Analyzer\Modeling\Modeling\obj\x86\Debug\Modeling.pdb
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Chat Logs Analyzer\Modeling\Modeling\bin\Debug\Modeling.pdb
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Modeling\Modeling\obj\x86\Debug\Modeling.exe
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Modeling\Modeling\obj\x86\Debug\Modeling.pdb
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Modeling\Modeling\bin\Debug\Modeling.exe
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Modeling\Modeling\bin\Debug\Modeling.pdb
+C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Modeling\Modeling\obj\x86\Debug\Modeling.csprojResolveAssemblyReference.cache

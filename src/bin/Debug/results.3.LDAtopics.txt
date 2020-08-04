@@ -1,0 +1,1822 @@
+Started on 10/11/2012 at 12:02:17 PM
+Topic 0
+0	ye	0.016067667363043
+1	go	0.0146762080064571
+2	think	0.014554066135225
+
+Topic 1
+0	go	0.0182875118916881
+1	think	0.0170330347731997
+2	know	0.015815727347111
+
+Topic 2
+0	yeah	0.022111306692756
+1	go	0.0162005577666707
+2	know	0.0161435638035425
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\#cumfuckme.docwords.txt
+	Topic1	0.447470817120623
+	Topic2	0.315175097276265
+	Topic0	0.237354085603113
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\#FuckMeInFrontOfEveryone.docwords.txt
+	Topic1	0.508108108108108
+	Topic2	0.274447174447174
+	Topic0	0.217444717444717
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\#fw.docwords.txt
+	Topic1	0.439784301977232
+	Topic0	0.306171360095866
+	Topic2	0.254044337926902
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\0.docwords.txt
+	Topic0	0.375618811881188
+	Topic2	0.338490099009901
+	Topic1	0.285891089108911
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\1.docwords.txt
+	Topic1	0.368372943327239
+	Topic2	0.340950639853748
+	Topic0	0.290676416819013
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\10.docwords.txt
+	Topic1	0.410852713178295
+	Topic0	0.297429620563036
+	Topic2	0.29171766625867
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\11.docwords.txt
+	Topic0	0.397849462365591
+	Topic1	0.359816806053365
+	Topic2	0.242333731581043
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\12.docwords.txt
+	Topic2	0.597926961552368
+	Topic1	0.207906472218874
+	Topic0	0.194166566228757
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\13.docwords.txt
+	Topic2	0.381860646165823
+	Topic0	0.327364733359284
+	Topic1	0.290774620474893
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\14.docwords.txt
+	Topic0	0.421660649819495
+	Topic2	0.307581227436823
+	Topic1	0.270758122743682
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\15.docwords.txt
+	Topic0	0.424365025848505
+	Topic1	0.327938862665768
+	Topic2	0.247696111485727
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\16.docwords.txt
+	Topic1	0.370332904175097
+	Topic0	0.317270553614125
+	Topic2	0.312396542210778
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\17.docwords.txt
+	Topic0	0.38410825815406
+	Topic2	0.331714087439278
+	Topic1	0.284177654406662
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\18.docwords.txt
+	Topic2	0.413600525624179
+	Topic0	0.303547963206308
+	Topic1	0.282851511169514
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\19.docwords.txt
+	Topic0	0.414544713790996
+	Topic2	0.348136076594011
+	Topic1	0.237319209614993
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\2.docwords.txt
+	Topic1	0.381312515247621
+	Topic0	0.331544279092462
+	Topic2	0.287143205659917
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\20.docwords.txt
+	Topic2	0.418152720621856
+	Topic0	0.3493369913123
+	Topic1	0.232510288065844
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\21.docwords.txt
+	Topic1	0.377198182177435
+	Topic2	0.341039320292432
+	Topic0	0.281762497530132
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\22.docwords.txt
+	Topic2	0.389864864864865
+	Topic1	0.333783783783784
+	Topic0	0.276351351351351
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\23.docwords.txt
+	Topic0	0.354469854469854
+	Topic2	0.347713097713098
+	Topic1	0.297817047817048
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\24.docwords.txt
+	Topic2	0.418952062430323
+	Topic0	0.308361204013378
+	Topic1	0.272686733556299
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\25.docwords.txt
+	Topic0	0.397011163125675
+	Topic1	0.323550594166367
+	Topic2	0.279438242707958
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\26.docwords.txt
+	Topic1	0.426611796982167
+	Topic2	0.333333333333333
+	Topic0	0.240054869684499
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\27.docwords.txt
+	Topic1	0.373223292067859
+	Topic0	0.35014519333639
+	Topic2	0.276631514595751
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\28.docwords.txt
+	Topic1	0.389337641357027
+	Topic0	0.316101238556812
+	Topic2	0.29456112008616
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\29.docwords.txt
+	Topic2	0.419354838709677
+	Topic1	0.334248455730954
+	Topic0	0.246396705559369
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\3.docwords.txt
+	Topic1	0.410664373253064
+	Topic2	0.301440550419265
+	Topic0	0.287895076327671
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\30.docwords.txt
+	Topic0	0.415954415954416
+	Topic1	0.394586894586895
+	Topic2	0.189458689458689
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\31.docwords.txt
+	Topic2	0.548624893677346
+	Topic0	0.261411964842642
+	Topic1	0.189963141480011
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\32.docwords.txt
+	Topic0	0.425465352729548
+	Topic2	0.332864070076646
+	Topic1	0.241670577193806
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\33.docwords.txt
+	Topic1	0.359835390946502
+	Topic0	0.330534979423868
+	Topic2	0.30962962962963
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\34.docwords.txt
+	Topic0	0.391423108440317
+	Topic1	0.320677410543567
+	Topic2	0.287899481016116
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\35.docwords.txt
+	Topic2	0.565654952076677
+	Topic0	0.232268370607029
+	Topic1	0.202076677316294
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\36.docwords.txt
+	Topic0	0.365044783345437
+	Topic2	0.318082788671024
+	Topic1	0.316872427983539
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\37.docwords.txt
+	Topic1	0.377699784017279
+	Topic2	0.314794816414687
+	Topic0	0.307505399568035
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\38.docwords.txt
+	Topic1	0.359453843870585
+	Topic0	0.353517364203028
+	Topic2	0.287028791926388
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\39.docwords.txt
+	Topic1	0.405948269786454
+	Topic2	0.3749383325111
+	Topic0	0.219113397702446
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\4.docwords.txt
+	Topic0	0.393949413126137
+	Topic2	0.319061001818482
+	Topic1	0.286989585055381
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\40.docwords.txt
+	Topic2	0.385203627956607
+	Topic0	0.345011559665659
+	Topic1	0.269784812377734
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\41.docwords.txt
+	Topic1	0.442913385826772
+	Topic0	0.30511811023622
+	Topic2	0.251968503937008
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\42.docwords.txt
+	Topic0	0.353971232020013
+	Topic1	0.352407754846779
+	Topic2	0.293621013133208
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\43.docwords.txt
+	Topic1	0.409473684210526
+	Topic0	0.316842105263158
+	Topic2	0.273684210526316
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\44.docwords.txt
+	Topic0	0.357344064386318
+	Topic1	0.321931589537223
+	Topic2	0.320724346076459
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\45.docwords.txt
+	Topic0	0.443950177935943
+	Topic1	0.293594306049822
+	Topic2	0.262455516014235
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\46.docwords.txt
+	Topic1	0.403571428571429
+	Topic0	0.36
+	Topic2	0.236428571428571
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\47.docwords.txt
+	Topic0	0.384738634087723
+	Topic1	0.308231524133787
+	Topic2	0.30702984177849
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\48.docwords.txt
+	Topic0	0.352563097664211
+	Topic2	0.32701050321367
+	Topic1	0.320426399122119
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\49.docwords.txt
+	Topic0	0.418553688823959
+	Topic1	0.337472607742878
+	Topic2	0.243973703433163
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\5.docwords.txt
+	Topic2	0.362310030395137
+	Topic1	0.329483282674772
+	Topic0	0.308206686930091
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\50.docwords.txt
+	Topic0	0.434466019417476
+	Topic2	0.310436893203884
+	Topic1	0.255097087378641
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\51.docwords.txt
+	Topic2	0.387563025210084
+	Topic0	0.345882352941176
+	Topic1	0.26655462184874
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\52.docwords.txt
+	Topic0	0.360185389538733
+	Topic1	0.32443169278305
+	Topic2	0.315382917678217
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\53.docwords.txt
+	Topic0	0.363023321157629
+	Topic2	0.3607754987356
+	Topic1	0.276201180106772
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\54.docwords.txt
+	Topic0	0.411101347393087
+	Topic1	0.32688927943761
+	Topic2	0.262009373169303
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\55.docwords.txt
+	Topic1	0.379314285714286
+	Topic2	0.327771428571429
+	Topic0	0.292914285714286
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\56.docwords.txt
+	Topic1	0.420206310679612
+	Topic2	0.299757281553398
+	Topic0	0.28003640776699
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\57.docwords.txt
+	Topic0	0.38103953147877
+	Topic1	0.315153733528551
+	Topic2	0.303806734992679
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\58.docwords.txt
+	Topic0	0.405693357749292
+	Topic1	0.310637589478941
+	Topic2	0.283669052771766
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\59.docwords.txt
+	Topic0	0.463687150837989
+	Topic1	0.281361097003555
+	Topic2	0.254951752158456
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\6.docwords.txt
+	Topic2	0.409018736106701
+	Topic1	0.305811368688473
+	Topic0	0.285169895204827
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\60.docwords.txt
+	Topic1	0.429646060372263
+	Topic2	0.297810782139068
+	Topic0	0.272543157488668
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\61.docwords.txt
+	Topic0	0.364893870736943
+	Topic1	0.354638683520153
+	Topic2	0.280467445742905
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\62.docwords.txt
+	Topic2	0.453294321629822
+	Topic1	0.310630689206762
+	Topic0	0.236074989163416
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\63.docwords.txt
+	Topic0	0.413935636256274
+	Topic1	0.299970475346915
+	Topic2	0.286093888396811
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\64.docwords.txt
+	Topic1	0.381217838765009
+	Topic0	0.354202401372213
+	Topic2	0.264579759862779
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\65.docwords.txt
+	Topic0	0.406217254628013
+	Topic1	0.311910583304226
+	Topic2	0.281872162067761
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\66.docwords.txt
+	Topic2	0.382985992483772
+	Topic0	0.344038264434575
+	Topic1	0.272975743081654
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\67.docwords.txt
+	Topic1	0.425849010505742
+	Topic0	0.343268995846567
+	Topic2	0.230881993647691
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\68.docwords.txt
+	Topic0	0.389294710327456
+	Topic1	0.320654911838791
+	Topic2	0.290050377833753
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\69.docwords.txt
+	Topic2	0.406901782328404
+	Topic0	0.300720515737581
+	Topic1	0.292377701934016
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\7.docwords.txt
+	Topic2	0.409740449110528
+	Topic1	0.344706911636046
+	Topic0	0.245552639253427
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\70.docwords.txt
+	Topic2	0.349833412660638
+	Topic1	0.327939076630176
+	Topic0	0.322227510709186
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\71.docwords.txt
+	Topic0	0.434040864907756
+	Topic1	0.305494941479865
+	Topic2	0.260464193612378
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\72.docwords.txt
+	Topic2	0.430411206507004
+	Topic1	0.286375960234975
+	Topic0	0.283212833258021
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\73.docwords.txt
+	Topic1	0.386491557223265
+	Topic0	0.336772983114447
+	Topic2	0.276735459662289
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\74.docwords.txt
+	Topic1	0.377123442808607
+	Topic2	0.31521328803322
+	Topic0	0.307663269158173
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\75.docwords.txt
+	Topic0	0.400344135359908
+	Topic1	0.310868941783768
+	Topic2	0.288786922856324
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\76.docwords.txt
+	Topic2	0.434786225253702
+	Topic1	0.30444185659624
+	Topic0	0.260771918150058
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\77.docwords.txt
+	Topic2	0.403572965992251
+	Topic0	0.318553594489884
+	Topic1	0.277873439517865
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\78.docwords.txt
+	Topic1	0.384436024482658
+	Topic2	0.341591372777616
+	Topic0	0.273972602739726
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\79.docwords.txt
+	Topic1	0.398126463700234
+	Topic0	0.320062451209992
+	Topic2	0.281811085089774
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\8.docwords.txt
+	Topic1	0.451061571125265
+	Topic0	0.333227176220807
+	Topic2	0.215711252653928
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\80.docwords.txt
+	Topic1	0.407669718431508
+	Topic2	0.316634997408879
+	Topic0	0.275695284159613
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\81.docwords.txt
+	Topic0	0.403894351262772
+	Topic1	0.324657798342009
+	Topic2	0.271447850395219
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\82.docwords.txt
+	Topic0	0.391716196136701
+	Topic1	0.390601783060921
+	Topic2	0.217682020802377
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\83.docwords.txt
+	Topic0	0.423011844331641
+	Topic1	0.295544275239707
+	Topic2	0.281443880428652
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\84.docwords.txt
+	Topic0	0.438088594349494
+	Topic2	0.333100802232299
+	Topic1	0.228810603418207
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\85.docwords.txt
+	Topic2	0.461679389312977
+	Topic0	0.282137404580153
+	Topic1	0.25618320610687
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\86.docwords.txt
+	Topic2	0.42220172201722
+	Topic0	0.324723247232472
+	Topic1	0.253075030750308
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\87.docwords.txt
+	Topic1	0.389433213444128
+	Topic0	0.376410765223862
+	Topic2	0.23415602133201
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\88.docwords.txt
+	Topic0	0.506917668405534
+	Topic1	0.26797459741438
+	Topic2	0.225107734180086
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\89.docwords.txt
+	Topic0	0.483001924310455
+	Topic1	0.268120590121873
+	Topic2	0.248877485567672
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\9.docwords.txt
+	Topic0	0.412420382165605
+	Topic1	0.338216560509554
+	Topic2	0.249363057324841
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\90.docwords.txt
+	Topic1	0.420066765578635
+	Topic2	0.331973293768546
+	Topic0	0.247959940652819
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\91.docwords.txt
+	Topic1	0.373113854595336
+	Topic0	0.328760859625057
+	Topic2	0.298125285779607
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\92.docwords.txt
+	Topic1	0.406637064734751
+	Topic0	0.304977798551063
+	Topic2	0.288385136714186
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\93.docwords.txt
+	Topic0	0.395567494963062
+	Topic2	0.370718603089322
+	Topic1	0.233713901947616
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\94.docwords.txt
+	Topic2	0.417065737919025
+	Topic1	0.380496299521115
+	Topic0	0.202437962559861
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\95.docwords.txt
+	Topic0	0.384959349593496
+	Topic2	0.340243902439024
+	Topic1	0.27479674796748
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\96.docwords.txt
+	Topic0	0.434470377019749
+	Topic1	0.338320367045681
+	Topic2	0.22720925593457
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\97.docwords.txt
+	Topic1	0.43531914893617
+	Topic0	0.306595744680851
+	Topic2	0.258085106382979
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\98.docwords.txt
+	Topic1	0.43915114768298
+	Topic2	0.286054569077523
+	Topic0	0.274794283239498
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\99.docwords.txt
+	Topic2	0.631419328750505
+	Topic1	0.19268095430651
+	Topic0	0.175899716942984
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\abraxisreborn.docwords.txt
+	Topic0	0.424646781789639
+	Topic2	0.304552590266876
+	Topic1	0.270800627943485
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\aladiesmasseur.docwords.txt
+	Topic0	0.351177730192719
+	Topic1	0.345824411134904
+	Topic2	0.302997858672377
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\alanp110.docwords.txt
+	Topic2	0.442098528470889
+	Topic0	0.392834293026232
+	Topic1	0.165067178502879
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\arb1210.docwords.txt
+	Topic2	0.433930093776641
+	Topic1	0.296675191815857
+	Topic0	0.269394714407502
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\army_dude1982.docwords.txt
+	Topic0	0.432084309133489
+	Topic2	0.291569086651054
+	Topic1	0.276346604215457
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\arthinice.docwords.txt
+	Topic2	0.42566709021601
+	Topic1	0.35133418043202
+	Topic0	0.22299872935197
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\aticloose.docwords.txt
+	Topic0	0.362595419847328
+	Topic2	0.33587786259542
+	Topic1	0.301526717557252
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\atlanta.docwords.txt
+	Topic0	0.493346476096599
+	Topic2	0.255791030064071
+	Topic1	0.25086249383933
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\atonomous2000.docwords.txt
+	Topic2	0.414096916299559
+	Topic1	0.297356828193833
+	Topic0	0.288546255506608
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\awaltherslong.docwords.txt
+	Topic1	0.394790602655771
+	Topic2	0.34167517875383
+	Topic0	0.263534218590398
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\a_latino_man559.docwords.txt
+	Topic0	0.371877890841813
+	Topic1	0.319148936170213
+	Topic2	0.308973172987974
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\b080387.docwords.txt
+	Topic1	0.397212543554007
+	Topic0	0.362369337979094
+	Topic2	0.240418118466899
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\b318ti.docwords.txt
+	Topic2	0.493398912762102
+	Topic0	0.323582707740098
+	Topic1	0.1830183794978
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bald_beaver_hunter42025.docwords.txt
+	Topic0	0.475228778794572
+	Topic1	0.271063426948564
+	Topic2	0.253707794256863
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\balin79.docwords.txt
+	Topic1	0.422752808988764
+	Topic0	0.313904494382022
+	Topic2	0.263342696629214
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ballsac49829.docwords.txt
+	Topic1	0.44636678200692
+	Topic0	0.387543252595156
+	Topic2	0.166089965397924
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bearinwolefsfur.docwords.txt
+	Topic0	0.379280674582688
+	Topic2	0.369127516778524
+	Topic1	0.251591808638788
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bendix632.docwords.txt
+	Topic0	0.420588235294118
+	Topic1	0.328308823529412
+	Topic2	0.251102941176471
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ben_taul2000.docwords.txt
+	Topic0	0.371517027863777
+	Topic2	0.361609907120743
+	Topic1	0.26687306501548
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bigdaddy68iou1.docwords.txt
+	Topic1	0.450189155107188
+	Topic0	0.330390920554855
+	Topic2	0.219419924337957
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\billy_williams65.docwords.txt
+	Topic2	0.385641316685585
+	Topic1	0.358399545970488
+	Topic0	0.255959137343927
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\blaqqca.docwords.txt
+	Topic1	0.378787878787879
+	Topic2	0.342245989304813
+	Topic0	0.278966131907308
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bluebentleydog.docwords.txt
+	Topic0	0.435406698564593
+	Topic1	0.330462519936204
+	Topic2	0.234130781499203
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bob10282001.docwords.txt
+	Topic0	0.490417432396955
+	Topic1	0.27330007876083
+	Topic2	0.236282488842216
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\boxbody00.docwords.txt
+	Topic0	0.425891181988743
+	Topic1	0.322701688555347
+	Topic2	0.25140712945591
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\boywonder832.docwords.txt
+	Topic0	0.365658362989324
+	Topic2	0.328514234875445
+	Topic1	0.305827402135231
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bpvmo.docwords.txt
+	Topic2	0.384819532908705
+	Topic1	0.334394904458599
+	Topic0	0.280785562632696
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\brian_e024.docwords.txt
+	Topic2	0.477666362807657
+	Topic0	0.273473108477666
+	Topic1	0.248860528714676
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bronx42162.docwords.txt
+	Topic1	0.364677937683387
+	Topic0	0.322760933351963
+	Topic2	0.31256112896465
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\bud448002.docwords.txt
+	Topic2	0.524038461538462
+	Topic1	0.25
+	Topic0	0.225961538461538
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\budd44800.docwords.txt
+	Topic0	0.430086149768058
+	Topic1	0.347249834327369
+	Topic2	0.222664015904573
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\buick19722001.docwords.txt
+	Topic0	0.523076923076923
+	Topic2	0.26974358974359
+	Topic1	0.207179487179487
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\cantonguy4fun.docwords.txt
+	Topic1	0.402233919630248
+	Topic2	0.301193991526512
+	Topic0	0.29657208884324
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\can_i_rape_you_anally.docwords.txt
+	Topic1	0.399550224887556
+	Topic0	0.305847076461769
+	Topic2	0.294602698650675
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\casual.docwords.txt
+	Topic0	0.469298245614035
+	Topic1	0.324561403508772
+	Topic2	0.206140350877193
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ccndsu.docwords.txt
+	Topic1	0.436893203883495
+	Topic0	0.330097087378641
+	Topic2	0.233009708737864
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\centgaguy04.docwords.txt
+	Topic2	0.386914378029079
+	Topic1	0.308562197092084
+	Topic0	0.304523424878837
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\changeforthebetter2006.docwords.txt
+	Topic0	0.353518821603928
+	Topic1	0.332242225859247
+	Topic2	0.314238952536825
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\charlie_e44.docwords.txt
+	Topic2	0.72150947447528
+	Topic1	0.16313275001342
+	Topic0	0.1153577755113
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\chawpie.docwords.txt
+	Topic2	0.390625
+	Topic0	0.375
+	Topic1	0.234375
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\chrispy967.docwords.txt
+	Topic1	0.467960023515579
+	Topic2	0.316284538506761
+	Topic0	0.21575543797766
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\clitlicker42303.docwords.txt
+	Topic0	0.442827442827443
+	Topic2	0.363825363825364
+	Topic1	0.193347193347193
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\cocksuckingwhores.docwords.txt
+	Topic0	0.561702127659575
+	Topic1	0.240425531914894
+	Topic2	0.197872340425532
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\cookingman65.docwords.txt
+	Topic0	0.374683544303797
+	Topic1	0.315611814345992
+	Topic2	0.309704641350211
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\cooperisaaca.docwords.txt
+	Topic0	0.392307692307692
+	Topic2	0.323076923076923
+	Topic1	0.284615384615385
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\cowboy39461.docwords.txt
+	Topic0	0.38400110147322
+	Topic1	0.318050392399835
+	Topic2	0.297948506126945
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\crackspackler200.docwords.txt
+	Topic1	0.426175720014583
+	Topic0	0.306598614655487
+	Topic2	0.267225665329931
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\cybertoy02.docwords.txt
+	Topic2	0.347398607128226
+	Topic0	0.346374436706268
+	Topic1	0.306226956165506
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\c_meandu.docwords.txt
+	Topic1	0.358963982193444
+	Topic0	0.358154593282072
+	Topic2	0.282881424524484
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\daddywants2playnokc.docwords.txt
+	Topic2	0.385250412768299
+	Topic0	0.343973582828839
+	Topic1	0.270776004402862
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\daddy_needs_slave.docwords.txt
+	Topic1	0.343467724168319
+	Topic2	0.334875523243005
+	Topic0	0.321656752588676
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dave40962.docwords.txt
+	Topic0	0.422015983500902
+	Topic1	0.310904872389791
+	Topic2	0.267079144109307
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\daveatsyou.docwords.txt
+	Topic0	0.414133114215283
+	Topic2	0.325390304026294
+	Topic1	0.260476581758422
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\davekruz2003.docwords.txt
+	Topic0	0.404502541757444
+	Topic2	0.348583877995643
+	Topic1	0.246913580246914
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\daydreamez69.docwords.txt
+	Topic2	0.353979560235367
+	Topic1	0.333539795602354
+	Topic0	0.312480644162279
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dble_d1.docwords.txt
+	Topic0	0.380185758513932
+	Topic2	0.34984520123839
+	Topic1	0.269969040247678
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\deirules83.docwords.txt
+	Topic2	0.388235294117647
+	Topic1	0.364705882352941
+	Topic0	0.247058823529412
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\desiredalex.docwords.txt
+	Topic0	0.402208201892744
+	Topic2	0.399842271293375
+	Topic1	0.19794952681388
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\detfreak99@sbcglobal.docwords.txt
+	Topic2	0.500618811881188
+	Topic0	0.330136138613861
+	Topic1	0.169245049504951
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\devilzombie13.docwords.txt
+	Topic0	0.461019490254873
+	Topic1	0.321589205397301
+	Topic2	0.217391304347826
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dicksobig69.docwords.txt
+	Topic0	0.445736434108527
+	Topic1	0.33702473237357
+	Topic2	0.217238833517903
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dipoyoy.docwords.txt
+	Topic0	0.729975227085054
+	Topic2	0.18056702449766
+	Topic1	0.089457748417286
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\docman_818.docwords.txt
+	Topic0	0.444377990430622
+	Topic2	0.327452153110048
+	Topic1	0.22816985645933
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dogshowsifudo.docwords.txt
+	Topic0	0.397149600580973
+	Topic1	0.367828612926652
+	Topic2	0.235021786492375
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dragon_2973.docwords.txt
+	Topic1	0.440570522979398
+	Topic0	0.323296354992076
+	Topic2	0.236133122028526
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\drmz_1980.docwords.txt
+	Topic1	0.415562913907285
+	Topic0	0.312913907284768
+	Topic2	0.271523178807947
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dtwnsd.docwords.txt
+	Topic0	0.456388206388206
+	Topic2	0.335380835380835
+	Topic1	0.208230958230958
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dukered2000.docwords.txt
+	Topic0	0.411851515495516
+	Topic1	0.32319218980588
+	Topic2	0.264956294698604
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\dveightus.docwords.txt
+	Topic1	0.398578458173866
+	Topic0	0.312192454893384
+	Topic2	0.28922908693275
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ekoplaya20.docwords.txt
+	Topic0	0.466458658346334
+	Topic1	0.316692667706708
+	Topic2	0.216848673946958
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\elchiva8395020.docwords.txt
+	Topic0	0.456834532374101
+	Topic2	0.292565947242206
+	Topic1	0.250599520383693
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\erickbigdick.docwords.txt
+	Topic0	0.477254901960784
+	Topic2	0.305882352941176
+	Topic1	0.216862745098039
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\eveready122.docwords.txt
+	Topic2	0.570069375619425
+	Topic0	0.269772051536174
+	Topic1	0.1601585728444
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\fargo1982.docwords.txt
+	Topic2	0.429003021148036
+	Topic0	0.288519637462236
+	Topic1	0.282477341389728
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\firstandgrand.docwords.txt
+	Topic0	0.413496051687006
+	Topic2	0.31586503948313
+	Topic1	0.270638908829864
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\flamningdonkeybutt.docwords.txt
+	Topic0	0.403080872913992
+	Topic2	0.335044929396662
+	Topic1	0.261874197689345
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\fleet_captain_jaime_wolfe.docwords.txt
+	Topic0	0.700506261657341
+	Topic2	0.150013322675193
+	Topic1	0.149480415667466
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\florida_in_miami.docwords.txt
+	Topic1	0.439477013918178
+	Topic0	0.369886123998313
+	Topic2	0.190636862083509
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\flxnonya.docwords.txt
+	Topic0	0.397058823529412
+	Topic1	0.323529411764706
+	Topic2	0.279411764705882
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\fredold_2000.docwords.txt
+	Topic1	0.504172274562584
+	Topic0	0.256258411843876
+	Topic2	0.23956931359354
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\freebird_72000.docwords.txt
+	Topic1	0.363692307692308
+	Topic0	0.328615384615385
+	Topic2	0.307692307692308
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\fseminoles2008.docwords.txt
+	Topic0	0.451754385964912
+	Topic2	0.308479532163743
+	Topic1	0.239766081871345
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\FuckMeInFrontOfEveryone.docwords.txt
+	Topic1	0.39873417721519
+	Topic0	0.322784810126582
+	Topic2	0.278481012658228
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\fuddster88.docwords.txt
+	Topic1	0.434463794683776
+	Topic2	0.286434463794684
+	Topic0	0.27910174152154
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\funjxn1.docwords.txt
+	Topic0	0.461815561959654
+	Topic2	0.290706051873199
+	Topic1	0.247478386167147
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\gavy_nakai.docwords.txt
+	Topic0	0.385342789598109
+	Topic2	0.314420803782506
+	Topic1	0.300236406619385
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\gca93066.docwords.txt
+	Topic2	0.49012474012474
+	Topic0	0.33038808038808
+	Topic1	0.179487179487179
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\geo_allino.docwords.txt
+	Topic1	0.465135888953752
+	Topic0	0.2784588441331
+	Topic2	0.256405266913148
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\gmoney301981.docwords.txt
+	Topic2	0.391459074733096
+	Topic1	0.355871886120996
+	Topic0	0.252669039145907
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\godofwineof3eb.docwords.txt
+	Topic0	0.390608324439701
+	Topic1	0.324439701173959
+	Topic2	0.284951974386339
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\golfboi59.docwords.txt
+	Topic0	0.388520971302428
+	Topic2	0.3719646799117
+	Topic1	0.239514348785872
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\goodguyportsmouthva.docwords.txt
+	Topic1	0.374524714828897
+	Topic0	0.315589353612167
+	Topic2	0.309885931558935
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\green_eye_latino669.docwords.txt
+	Topic0	0.40498899486427
+	Topic2	0.397285399853265
+	Topic1	0.197725605282465
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\greg_green98.docwords.txt
+	Topic0	0.469630557294928
+	Topic1	0.360258818618243
+	Topic2	0.170110624086829
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\greq_lovette33.docwords.txt
+	Topic2	0.450168918918919
+	Topic0	0.288429054054054
+	Topic1	0.261402027027027
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\groehrig123.docwords.txt
+	Topic2	0.494464944649447
+	Topic0	0.284132841328413
+	Topic1	0.22140221402214
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\guy_from_mars83.docwords.txt
+	Topic1	0.399239543726236
+	Topic2	0.359315589353612
+	Topic0	0.241444866920152
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\g_balthareddy.docwords.txt
+	Topic1	0.465226398342705
+	Topic0	0.327315773897603
+	Topic2	0.207457827759692
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\har_a_lee.docwords.txt
+	Topic2	0.362203297698859
+	Topic1	0.340822612792173
+	Topic0	0.296974089508969
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\hckywingnut2000.docwords.txt
+	Topic2	0.379942566821294
+	Topic1	0.358515573227303
+	Topic0	0.261541859951403
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\hd88399.docwords.txt
+	Topic1	0.363267218491332
+	Topic0	0.339528346087771
+	Topic2	0.297204435420896
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\hey_malen.docwords.txt
+	Topic1	0.360805860805861
+	Topic0	0.342490842490843
+	Topic2	0.296703296703297
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\hiexcitement.docwords.txt
+	Topic2	0.35369532428356
+	Topic1	0.343137254901961
+	Topic0	0.30316742081448
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\highplainsrider20002000.docwords.txt
+	Topic1	0.387318563789152
+	Topic0	0.349885408708938
+	Topic2	0.26279602750191
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\hot95cobraguy.docwords.txt
+	Topic0	0.390196078431373
+	Topic1	0.388235294117647
+	Topic2	0.22156862745098
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\icepirate53.docwords.txt
+	Topic0	0.408256880733945
+	Topic2	0.318042813455657
+	Topic1	0.273700305810398
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\icouldspoilu.docwords.txt
+	Topic2	0.355406538139145
+	Topic1	0.335289186923722
+	Topic0	0.309304274937133
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\i_luv_the_putay.docwords.txt
+	Topic0	0.379457917261056
+	Topic2	0.365192582025678
+	Topic1	0.255349500713267
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jackman_9682.docwords.txt
+	Topic0	0.403423892817268
+	Topic1	0.319315221436546
+	Topic2	0.277260885746185
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jackson3921wm.docwords.txt
+	Topic1	0.37591859807801
+	Topic0	0.343131712832109
+	Topic2	0.280949689089881
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jacob_cason2003.docwords.txt
+	Topic0	0.333333333333333
+	Topic1	0.333333333333333
+	Topic2	0.333333333333333
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jake905_1999.docwords.txt
+	Topic2	0.363686534216336
+	Topic0	0.343818984547461
+	Topic1	0.292494481236203
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jarobert24.docwords.txt
+	Topic2	0.421455938697318
+	Topic0	0.318007662835249
+	Topic1	0.260536398467433
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jaydan0033.docwords.txt
+	Topic0	0.353631694790902
+	Topic2	0.338224504768892
+	Topic1	0.308143800440205
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jaysun28m.docwords.txt
+	Topic0	0.434047350620068
+	Topic1	0.324689966178129
+	Topic2	0.241262683201804
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jazzeman04.docwords.txt
+	Topic2	0.56243213897937
+	Topic0	0.242128121606949
+	Topic1	0.195439739413681
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jbird2000_95020.docwords.txt
+	Topic2	0.35377358490566
+	Topic0	0.327044025157233
+	Topic1	0.319182389937107
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jbrian1964.docwords.txt
+	Topic1	0.440449567062332
+	Topic2	0.313779459831412
+	Topic0	0.245770973106256
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jim90020.docwords.txt
+	Topic2	0.398648648648649
+	Topic0	0.382882882882883
+	Topic1	0.218468468468468
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jim_garvin56.docwords.txt
+	Topic2	0.39135959339263
+	Topic1	0.354934349851758
+	Topic0	0.253706056755612
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jkspeedster0112.docwords.txt
+	Topic1	0.495492983923427
+	Topic0	0.28998234364836
+	Topic2	0.214524672428213
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jleno9.docwords.txt
+	Topic0	0.333333333333333
+	Topic1	0.333333333333333
+	Topic2	0.333333333333333
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jmv91373.docwords.txt
+	Topic2	0.461894586894587
+	Topic1	0.305555555555556
+	Topic0	0.232549857549858
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\john.docwords.txt
+	Topic0	0.511111111111111
+	Topic1	0.253703703703704
+	Topic2	0.235185185185185
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\johnchess2000.docwords.txt
+	Topic2	0.392980437284235
+	Topic0	0.311852704257768
+	Topic1	0.295166858457998
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jtwant2play.docwords.txt
+	Topic1	0.398646521875984
+	Topic0	0.325621655649984
+	Topic2	0.275731822474032
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jubjub970.docwords.txt
+	Topic0	0.388305847076462
+	Topic1	0.332833583208396
+	Topic2	0.278860569715142
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\jugglo4lifesuckas.docwords.txt
+	Topic1	0.375172413793103
+	Topic0	0.36551724137931
+	Topic2	0.259310344827586
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kalowoodsman.docwords.txt
+	Topic1	0.449587852494577
+	Topic2	0.275791757049892
+	Topic0	0.274620390455531
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kardassian_2.docwords.txt
+	Topic1	0.436494621533603
+	Topic0	0.293348465410046
+	Topic2	0.270156913056351
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kenneth_forton.docwords.txt
+	Topic1	0.351525821596244
+	Topic2	0.327464788732394
+	Topic0	0.321009389671362
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kinkyjeff6944.docwords.txt
+	Topic0	0.468663167644335
+	Topic2	0.311207162704538
+	Topic1	0.220129669651127
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kinky_man_in_corona.docwords.txt
+	Topic2	0.592124814264487
+	Topic0	0.224368499257058
+	Topic1	0.183506686478455
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kissmytickle.docwords.txt
+	Topic2	0.40495867768595
+	Topic1	0.300381436745073
+	Topic0	0.294659885568976
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\korn76_99.docwords.txt
+	Topic1	0.430313422882728
+	Topic2	0.290797370677336
+	Topic0	0.278889206439935
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\kuzzoo61.docwords.txt
+	Topic1	0.470260767653091
+	Topic0	0.265748608262526
+	Topic2	0.263990624084383
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\latinhawk63.docwords.txt
+	Topic2	0.426278836509529
+	Topic1	0.286860581745236
+	Topic0	0.286860581745236
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\lee_greer74.docwords.txt
+	Topic1	0.383425414364641
+	Topic2	0.355064456721915
+	Topic0	0.261510128913444
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\letsgo212000.docwords.txt
+	Topic2	0.383333333333333
+	Topic0	0.309259259259259
+	Topic1	0.307407407407407
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\likuososweet.docwords.txt
+	Topic0	0.368266978922717
+	Topic2	0.357728337236534
+	Topic1	0.274004683840749
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\lil_dyprd_baby.docwords.txt
+	Topic2	0.704733727810651
+	Topic1	0.148915187376726
+	Topic0	0.146351084812623
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\lorne_a_20014.docwords.txt
+	Topic2	0.450580214024473
+	Topic1	0.362396712873075
+	Topic0	0.187023073102452
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\loverboy212x.docwords.txt
+	Topic2	0.379310344827586
+	Topic1	0.31992337164751
+	Topic0	0.300766283524904
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\lovesoral54956.docwords.txt
+	Topic1	0.356299212598425
+	Topic2	0.33989501312336
+	Topic0	0.303805774278215
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\lowvoltage18.docwords.txt
+	Topic2	0.369276218611521
+	Topic0	0.361890694239291
+	Topic1	0.268833087149188
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\luvs2eaturpeach.docwords.txt
+	Topic2	0.501652346331791
+	Topic1	0.267944481163252
+	Topic0	0.230403172504957
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\m4pixeleem.docwords.txt
+	Topic0	0.366727941176471
+	Topic1	0.352941176470588
+	Topic2	0.280330882352941
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mack916@sbcglobal.docwords.txt
+	Topic0	0.443499664354442
+	Topic1	0.367196240769747
+	Topic2	0.189304094875811
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\magic4isl2002.docwords.txt
+	Topic0	0.453049370764763
+	Topic2	0.331397224911262
+	Topic1	0.215553404323975
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\magichands7777.docwords.txt
+	Topic1	0.346938775510204
+	Topic0	0.326530612244898
+	Topic2	0.326530612244898
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\maken_do_692003.docwords.txt
+	Topic1	0.480101073910297
+	Topic0	0.275426405559065
+	Topic2	0.244472520530638
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mandaringuy78.docwords.txt
+	Topic2	0.427549194991055
+	Topic0	0.37567084078712
+	Topic1	0.196779964221825
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\manofdarkneedsl951.docwords.txt
+	Topic0	0.432835820895522
+	Topic2	0.308457711442786
+	Topic1	0.258706467661692
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\manontherun45.docwords.txt
+	Topic2	0.747756084019617
+	Topic1	0.135560285000463
+	Topic0	0.11668363097992
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mansfield_tiger2007.docwords.txt
+	Topic2	0.386632390745501
+	Topic0	0.308483290488432
+	Topic1	0.304884318766067
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\markiemarcc.docwords.txt
+	Topic1	0.437920489296636
+	Topic0	0.341284403669725
+	Topic2	0.220795107033639
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\marriedandlookingforfun31313.docwords.txt
+	Topic0	0.441205862758161
+	Topic1	0.326115922718188
+	Topic2	0.232678214523651
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mibbbboy.docwords.txt
+	Topic2	0.355759429153925
+	Topic0	0.346585117227319
+	Topic1	0.297655453618756
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\michaelmeyer2448.docwords.txt
+	Topic0	0.473633748801534
+	Topic1	0.274209012464046
+	Topic2	0.25215723873442
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\michguyhere.docwords.txt
+	Topic1	0.475977121067684
+	Topic0	0.284795042897998
+	Topic2	0.239227836034318
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\michingan19602000.docwords.txt
+	Topic2	0.572698412698413
+	Topic0	0.27957671957672
+	Topic1	0.147724867724868
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mikejardi.docwords.txt
+	Topic0	0.458333333333333
+	Topic1	0.282738095238095
+	Topic2	0.258928571428571
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mikeman7828.docwords.txt
+	Topic0	0.435394978567055
+	Topic2	0.293937538273117
+	Topic1	0.270667483159829
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mikespikegetiingcrazytocu.docwords.txt
+	Topic1	0.357563850687623
+	Topic0	0.355599214145383
+	Topic2	0.286836935166994
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\milw_male2002.docwords.txt
+	Topic0	0.451612903225806
+	Topic2	0.349462365591398
+	Topic1	0.198924731182796
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mkrauss0460.docwords.txt
+	Topic1	0.479954180985109
+	Topic0	0.268041237113402
+	Topic2	0.252004581901489
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\morq_stick.docwords.txt
+	Topic2	0.428535732133933
+	Topic0	0.361319340329835
+	Topic1	0.210144927536232
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mountaindew63401.docwords.txt
+	Topic0	0.441291585127202
+	Topic2	0.336594911937378
+	Topic1	0.222113502935421
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mr6317.docwords.txt
+	Topic1	0.417039106145251
+	Topic0	0.34804469273743
+	Topic2	0.234916201117318
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\mrk_youngblood.docwords.txt
+	Topic1	0.423541247484909
+	Topic2	0.301810865191147
+	Topic0	0.274647887323944
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\nadd556.docwords.txt
+	Topic1	0.397082181304783
+	Topic0	0.386846285075593
+	Topic2	0.216071533619625
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\navyboy_usn.docwords.txt
+	Topic0	0.384161752316765
+	Topic2	0.322662173546757
+	Topic1	0.293176074136479
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ndguy58746.docwords.txt
+	Topic2	0.361765583059946
+	Topic1	0.342976439009842
+	Topic0	0.295257977930212
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\niceguy4u810.docwords.txt
+	Topic2	0.423339011925043
+	Topic1	0.295854628052243
+	Topic0	0.280806360022714
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\njdavenj1.docwords.txt
+	Topic1	0.408045977011494
+	Topic2	0.380028735632184
+	Topic0	0.211925287356322
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\nj_dom_4_f.docwords.txt
+	Topic1	0.546526267597574
+	Topic2	0.257296554881538
+	Topic0	0.196177177520888
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\notjustanotherncguy.docwords.txt
+	Topic1	0.456873032528856
+	Topic0	0.312486883525708
+	Topic2	0.230640083945435
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\onelstsoul.docwords.txt
+	Topic2	0.405966767371601
+	Topic0	0.321941087613293
+	Topic1	0.272092145015106
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\OSU_Cowboy_24.docwords.txt
+	Topic2	0.381451009723261
+	Topic1	0.321615557217651
+	Topic0	0.296933433059088
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\pal03_2004.docwords.txt
+	Topic0	0.463404255319149
+	Topic1	0.367659574468085
+	Topic2	0.168936170212766
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\persuasion2032.docwords.txt
+	Topic0	0.521389028686462
+	Topic1	0.256668344237544
+	Topic2	0.221942627075994
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\peter2033.docwords.txt
+	Topic1	0.406565064478312
+	Topic0	0.339390386869871
+	Topic2	0.254044548651817
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\phil29ct.docwords.txt
+	Topic0	0.379222972972973
+	Topic2	0.342905405405405
+	Topic1	0.277871621621622
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\pickup_man87.docwords.txt
+	Topic1	0.438294010889292
+	Topic2	0.2994555353902
+	Topic0	0.262250453720508
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\popogh64.docwords.txt
+	Topic0	0.414673046251994
+	Topic1	0.311004784688995
+	Topic2	0.274322169059011
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\producerpaul2001.docwords.txt
+	Topic0	0.403669724770642
+	Topic1	0.379204892966361
+	Topic2	0.217125382262997
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\rauch_jim.docwords.txt
+	Topic2	0.356451612903226
+	Topic1	0.342741935483871
+	Topic0	0.300806451612903
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\rebal20032003.docwords.txt
+	Topic0	0.43758389261745
+	Topic2	0.289261744966443
+	Topic1	0.273154362416107
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\residentsmith.docwords.txt
+	Topic0	0.458458759783263
+	Topic2	0.311258278145695
+	Topic1	0.230282962071042
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ricks_talented_tongue.docwords.txt
+	Topic0	0.471428571428571
+	Topic1	0.314285714285714
+	Topic2	0.214285714285714
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\rk63s2000.docwords.txt
+	Topic1	0.380502665651181
+	Topic2	0.326884996191927
+	Topic0	0.292612338156893
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\rknrllanml.docwords.txt
+	Topic0	0.333333333333333
+	Topic1	0.333333333333333
+	Topic2	0.333333333333333
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\rockstar9992003.docwords.txt
+	Topic0	0.497406989853439
+	Topic2	0.322886133032694
+	Topic1	0.179706877113867
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\ryan4686.docwords.txt
+	Topic2	0.356603773584906
+	Topic0	0.328301886792453
+	Topic1	0.315094339622641
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\seanemdyoung.docwords.txt
+	Topic0	0.402439024390244
+	Topic2	0.348780487804878
+	Topic1	0.248780487804878
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\sebastian_calif.docwords.txt
+	Topic0	0.462199312714777
+	Topic2	0.307560137457045
+	Topic1	0.230240549828179
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\shaka_k2000.docwords.txt
+	Topic2	0.403225806451613
+	Topic0	0.328629032258065
+	Topic1	0.268145161290323
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\shinelfmc2005.docwords.txt
+	Topic2	0.47623862487361
+	Topic0	0.319009100101112
+	Topic1	0.204752275025278
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\shi_guy_99.docwords.txt
+	Topic1	0.373972602739726
+	Topic2	0.316438356164384
+	Topic0	0.30958904109589
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\simpatico174.docwords.txt
+	Topic1	0.423091676256233
+	Topic0	0.391829689298044
+	Topic2	0.185078634445723
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\singlemalestaynfit2000.docwords.txt
+	Topic2	0.526650194140487
+	Topic1	0.29509354041652
+	Topic0	0.178256265442993
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\singletxguyforfun.docwords.txt
+	Topic1	0.465384615384615
+	Topic2	0.315384615384615
+	Topic0	0.219230769230769
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\six_pack_so_calif.docwords.txt
+	Topic0	0.620542082738944
+	Topic2	0.229671897289586
+	Topic1	0.149786019971469
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\sjklanke.docwords.txt
+	Topic1	0.419613075383589
+	Topic0	0.294196130753836
+	Topic2	0.286190793862575
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\sjw632001.docwords.txt
+	Topic1	0.481953867028494
+	Topic0	0.263500678426052
+	Topic2	0.254545454545455
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\skargakos.docwords.txt
+	Topic1	0.390756302521008
+	Topic2	0.323529411764706
+	Topic0	0.285714285714286
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\smileman74.docwords.txt
+	Topic1	0.348541232509676
+	Topic0	0.333283715391486
+	Topic2	0.318175052098839
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\smk610.docwords.txt
+	Topic0	0.374578809434669
+	Topic1	0.321228004492699
+	Topic2	0.304193186072632
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\southbayguy310.docwords.txt
+	Topic2	0.520256583389602
+	Topic0	0.325118163403106
+	Topic1	0.154625253207292
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\spongebob_giantdick.docwords.txt
+	Topic2	0.44047619047619
+	Topic0	0.357142857142857
+	Topic1	0.202380952380952
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\sst83.docwords.txt
+	Topic0	0.3792194092827
+	Topic1	0.352320675105485
+	Topic2	0.268459915611814
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\starman542000.docwords.txt
+	Topic2	0.377490039840637
+	Topic0	0.316733067729084
+	Topic1	0.305776892430279
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\steamerboyddc1.docwords.txt
+	Topic0	0.510402219140083
+	Topic2	0.248266296809986
+	Topic1	0.241331484049931
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\stephen_tanner69.docwords.txt
+	Topic1	0.430784123910939
+	Topic2	0.322039367537915
+	Topic0	0.247176508551146
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\steven_duncil78.docwords.txt
+	Topic2	0.460761460761461
+	Topic0	0.348873348873349
+	Topic1	0.19036519036519
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\steve_steve875.docwords.txt
+	Topic2	0.384345794392523
+	Topic1	0.320093457943925
+	Topic0	0.295560747663551
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\streqa_num_7.docwords.txt
+	Topic0	0.393636930754835
+	Topic2	0.335620711166563
+	Topic1	0.270742358078603
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\stylelisticqrooves.docwords.txt
+	Topic0	0.419847328244275
+	Topic2	0.370229007633588
+	Topic1	0.209923664122137
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\sunrise_sumset66.docwords.txt
+	Topic0	0.451171540961177
+	Topic1	0.359329570720027
+	Topic2	0.189498888318796
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\swgamaleyess.docwords.txt
+	Topic0	0.419546128406888
+	Topic1	0.308701106169461
+	Topic2	0.271752765423652
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\talldreamy_doc.docwords.txt
+	Topic0	0.397134083930399
+	Topic2	0.340327533265097
+	Topic1	0.262538382804504
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\teadyber.docwords.txt
+	Topic0	0.498245614035088
+	Topic1	0.27953216374269
+	Topic2	0.222222222222222
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\teakadai_pandi.docwords.txt
+	Topic0	0.394300031318509
+	Topic1	0.383964923269652
+	Topic2	0.221735045411838
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\terubble33.docwords.txt
+	Topic1	0.401097895699909
+	Topic0	0.32772186642269
+	Topic2	0.271180237877402
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\texassailor04.docwords.txt
+	Topic2	0.445438282647585
+	Topic1	0.316636851520572
+	Topic0	0.237924865831843
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\thenamestheygivearedumb.docwords.txt
+	Topic2	0.405750798722045
+	Topic0	0.356230031948882
+	Topic1	0.238019169329073
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\thenewperson62.docwords.txt
+	Topic0	0.360707269155206
+	Topic1	0.356581532416503
+	Topic2	0.282711198428291
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\the_donjuan02.docwords.txt
+	Topic0	0.338274932614555
+	Topic1	0.335579514824798
+	Topic2	0.326145552560647
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\the_third_storm.docwords.txt
+	Topic1	0.430581039755352
+	Topic2	0.286850152905199
+	Topic0	0.28256880733945
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\thomascoffen.docwords.txt
+	Topic0	0.459320288362513
+	Topic1	0.286302780638517
+	Topic2	0.25437693099897
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\tim_myers3.docwords.txt
+	Topic0	0.390581717451524
+	Topic1	0.347183748845799
+	Topic2	0.262234533702678
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\tmceach2000.docwords.txt
+	Topic0	0.417876241405653
+	Topic1	0.318563789152024
+	Topic2	0.263559969442322
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\toddb39.docwords.txt
+	Topic2	0.446113074204947
+	Topic0	0.364399293286219
+	Topic1	0.189487632508834
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\tofast4yall2003.docwords.txt
+	Topic2	0.41851368970013
+	Topic1	0.291177748804867
+	Topic0	0.290308561495002
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\tophat106.docwords.txt
+	Topic2	0.733879222108495
+	Topic1	0.137666325486182
+	Topic0	0.128454452405322
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\Trianglelover.docwords.txt
+	Topic0	0.353644859813084
+	Topic1	0.337570093457944
+	Topic2	0.308785046728972
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\trustnooneeveryonesfake.docwords.txt
+	Topic2	0.500355450236967
+	Topic0	0.288862559241706
+	Topic1	0.210781990521327
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\trying_2b_normal.docwords.txt
+	Topic1	0.393777571395403
+	Topic2	0.316461574181565
+	Topic0	0.289760854423032
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\tucsftcoach.docwords.txt
+	Topic2	0.41923774954628
+	Topic0	0.336963097398669
+	Topic1	0.243799153055051
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\tunnels12000.docwords.txt
+	Topic1	0.381940012763242
+	Topic0	0.311423101467773
+	Topic2	0.306636885768985
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\uchi_deshi_2000.docwords.txt
+	Topic2	0.398533950617284
+	Topic0	0.33641975308642
+	Topic1	0.265046296296296
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\user194547.docwords.txt
+	Topic0	0.333333333333333
+	Topic1	0.333333333333333
+	Topic2	0.333333333333333
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\usta_tennis.docwords.txt
+	Topic1	0.41671115856914
+	Topic2	0.296583021890016
+	Topic0	0.286705819540844
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\vamale_692005.docwords.txt
+	Topic0	0.407788161993769
+	Topic2	0.330529595015576
+	Topic1	0.261682242990654
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\va_breitling.docwords.txt
+	Topic0	0.419263456090652
+	Topic2	0.308781869688385
+	Topic1	0.271954674220963
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\victor_wells2002.docwords.txt
+	Topic2	0.597848016139879
+	Topic0	0.243779421654338
+	Topic1	0.158372562205783
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\vipper_131.docwords.txt
+	Topic1	0.434832756632065
+	Topic0	0.416378316032295
+	Topic2	0.14878892733564
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\warreng68.docwords.txt
+	Topic0	0.363408521303258
+	Topic2	0.345864661654135
+	Topic1	0.290726817042607
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\whiteboy562.docwords.txt
+	Topic1	0.39924670433145
+	Topic0	0.32015065913371
+	Topic2	0.28060263653484
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\whittierlacumandbig.docwords.txt
+	Topic1	0.466307277628032
+	Topic2	0.274932614555256
+	Topic0	0.258760107816712
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\willeycoyote41.docwords.txt
+	Topic0	0.447126150783777
+	Topic1	0.330928091565066
+	Topic2	0.221945757651157
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\working_loving_goodman.docwords.txt
+	Topic0	0.406382978723404
+	Topic1	0.304255319148936
+	Topic2	0.28936170212766
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\wow_you_like.docwords.txt
+	Topic0	0.464285714285714
+	Topic2	0.288629737609329
+	Topic1	0.247084548104956
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\wulfker_dragonslayer.docwords.txt
+	Topic1	0.433037437282902
+	Topic0	0.292551138556542
+	Topic2	0.274411424160556
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\x_cums_in_the_night_x.docwords.txt
+	Topic1	0.487360376249265
+	Topic2	0.278071722516167
+	Topic0	0.234567901234568
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\yankees_9ers_dad.docwords.txt
+	Topic1	0.409961685823755
+	Topic0	0.348659003831418
+	Topic2	0.241379310344828
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\your_lil_nene.docwords.txt
+	Topic1	0.379928315412186
+	Topic0	0.325448028673835
+	Topic2	0.294623655913978
+
+>> C:\Users\MeiTantei\Documents\Thesis & Papers\Master\Program\Models\Master's Thesis Program\Text Corpus\Index\youwantcomeandgetme2005.docwords.txt
+	Topic0	0.452708907254362
+	Topic2	0.369146005509642
+	Topic1	0.178145087235996
+
+Ended on 10/11/2012 at 12:04:10 PM

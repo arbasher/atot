@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ATGibbs" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAIBKAoQQAAABAAAgAQBACIhAI4AAEAAABQAIMQAAA=</HashCode>
+      <FileName>ATGibbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATOTGibbs" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCQIJKAoSQAAABAAAgAQBACIxAI4AAEoAABQCIMQAAI=</HashCode>
+      <FileName>ATOTGibbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundTopics">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKAAAQAEAAEAAgAABACAAAIwAAEAAAAAAAMQAAA=</HashCode>
+      <FileName>BackgroundTopics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistanceMetric" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAUAgQEAEAYAABAEAAAAgAAAAIAAAAIcYAAA=</HashCode>
+      <FileName>DistanceMetric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LDAGibbs" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAIAKAgQQAAABAAAgAQBACIhAI4AAEAAABQAIMQAAA=</HashCode>
+      <FileName>LDAGibbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LDATOTGibbs" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCQIIKAgSQAAABAAAgAQBACIxAI4AAEgAABQAIMQAAI=</HashCode>
+      <FileName>LDATOTGibbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parameters">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAACABAAAAAAAAgAABAKABAQAABAAAAAQIAAAACA=</HashCode>
+      <FileName>Parameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Result" BaseTypeListCollapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAABAAAAAAQAgAAAAIAAAAAAAAAAAAUAACAFAAA=</HashCode>
+      <FileName>Result.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TextPath" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAIAAAACCAAAICgAACIgAAA=</HashCode>
+      <FileName>TextPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modeling.Program">
+    <Position X="20.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>kAgACAhBAAAAAAQAAAGAQQAAAAAgCAAIAAAABACEAAQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
