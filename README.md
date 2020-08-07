@@ -1,5 +1,5 @@
 ## Basic Description
-This repo contains an implementation of ATOT (**A**uthor **T**opic **O**ver **T**ime) and LDA-TOT (**Laten** **D**irichlet **A**llocation-**T**opics **O**ver **T**ime) to analyze archives of chat logs for crime investigation.
+This repo contains an implementation of ATOT (**A**uthor **T**opic **O**ver **T**ime) and LDA-TOT (**L**atent **D**irichlet **A**llocation-**T**opics **O**ver **T**ime) to analyze archives of chat logs for crime investigation.
 
 
 ## Citing
