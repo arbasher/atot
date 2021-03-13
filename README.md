@@ -7,4 +7,4 @@ If you find *ATOT* useful in your research, please consider citing the following
 - M. A. Basher, Abdur Rahman and Fung, Benjamin C. M.. **["Analyzing topics and authors in chat logs for crime investigation."](https://link.springer.com/article/10.1007/s10115-013-0617-y)**, KAIS (2013).
 
 ## Contact
-For any inquiries, please contact: [arbasher@alumni.ubc.ca](mailto:arbasher@alumni.ubc.ca)
+For any inquiries, please contact: [arbasher@student.ubc.ca](mailto:arbasher@student.ubc.ca)
